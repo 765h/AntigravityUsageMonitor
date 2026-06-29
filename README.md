@@ -23,9 +23,19 @@ Antigravity（Geminiエディタ）のバックグラウンドで稼働してい
 
 ## 🚀 インストール方法
 
-### 1. リポジトリのクローンと依存関係のインストール
+### 1. ダウンロード（最も簡単）
+👉 **[最新の実行ファイル（.exe）をダウンロードする](https://github.com/765h/AntigravityUsageMonitor/releases/latest)**
+
+ダウンロードした `AntigravityUsageMonitor.exe` をダブルクリックするだけでそのまま起動します。
+*(※ Windows の「スマートアプリコントロール」等でブロックされてしまう場合は、以下の「2.ソースコードからの実行」をお試しください)*
+
+---
+
+### 2. ソースコードからの実行・ビルド（開発者向け）
+
+まずはリポジトリのクローンと依存関係のインストールを行います。
 ```bash
-git clone https://github.com/your-username/AntigravityUsageMonitor.git
+git clone https://github.com/765h/AntigravityUsageMonitor.git
 cd AntigravityUsageMonitor
 pip install -r requirements.txt
 ```
