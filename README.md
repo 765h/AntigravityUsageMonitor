@@ -1,4 +1,8 @@
-﻿# Antigravity Usage Monitor
+# Antigravity Usage Monitor
+
+<p align="center">
+  <img src="assets/hero.jpg" alt="Antigravity Usage Monitor Hero Banner" width="800">
+</p>
 
 Antigravity（Geminiエディタ）のバックグラウンドで稼働している Language Server と通信し、現在使用しているAIモデルのクオータ（残量）を Windows のタスクトレイにリアルタイムで表示するユーティリティアプリです。
 
